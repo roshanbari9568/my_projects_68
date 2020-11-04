@@ -1,0 +1,8 @@
+address = localhost:8000
+method = post
+body = {
+    'streamType': '.png',
+    'url':'stackoverflow.com',
+    'quality':85
+
+}
